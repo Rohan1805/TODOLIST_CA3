@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1002263273967",
+    "firebase_url": "https://todolist-ca3-default-rtdb.firebaseio.com",
+    "project_id": "todolist-ca3",
+    "storage_bucket": "todolist-ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002263273967:android:56ac8ad1d8f87e2c2b161a",
+        "android_client_info": {
+          "package_name": "com.rohan.todolist_ca3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEcqMTW__jex-jOhk6XJ-oNzwizgrQ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
